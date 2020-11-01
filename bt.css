@@ -1,0 +1,49 @@
+.
+header{
+font-size: 20px;
+text-align: center;
+line-height: 1.5;
+margin-bottom: 60px auto;
+}
+.header span {
+display: block;
+
+
+}
+
+.p{
+  font-size: 20px;
+  font-weight: 800;
+color:#17A2B8;
+margin-bottom: 20px
+}
+
+.form{
+border: 5px solid #17A2B8; 
+padding: 35px 20px;
+
+}
+
+.form-btn{
+margin: 10px auto;
+
+}
+ .form input{
+margin-bottom:  10px ;
+
+ } 
+
+ .section{
+
+padding: 30px 0;
+
+ }
+
+
+.sectiom {
+font-size: 20px;
+font-weight: 600;
+
+
+
+}
